@@ -1,0 +1,60 @@
+Semester,Code,Subject,Credits
+1,22UEN101,Communicative English,3
+1,22UMA101,Matrices and Calculus,4
+1,22UPH101,Engineering Physics,2
+1,22UCH101,Engineering Chemistry,2
+1,22UIT101,Python Programming,3
+1,22UEE102,Basics of Electrical & Electronics Engg.,2
+1,22UOC103,Liberal Arts - Heritage of Tamils,1
+1,22UBS102,Basic Science Laboratory,1
+1,22UIT102,Python Programming Laboratory,1
+1,22UCS103,PC Hardware and Troubleshooting,1
+2,22UEN201,Technical English,3
+2,22UMA202,Linear Algebra,4
+2,22UPH201,Physics for Information Science,2
+2,22UAD201,Data Structures,3
+2,22UCS201,Computer Organization and Architecture,3
+2,22UME203,Engineering Graphics,3
+2,22UIT202,Digital Principles and System Design,3
+2,22UOC203,Liberal Arts - Tamils and Technology,1
+2,22UOC204,Professional Ethics,1
+2,22UAD202,Data Structures Laboratory,2
+2,22UOC205,STEM Project,1
+3,22UMA301,Probability and Statistics,3
+3,22UAD301,Artificial Intelligence Techniques & Algorithms,4
+3,22UCS301,Database Management Systems,3
+3,OE-I,Open Elective - I,3
+3,22UAD302,Structured Programming,2
+3,22UAD303,R Programming,2
+3,22UCS302,DBMS Laboratory,2
+3,22UAD304,Artificial Intelligence Laboratory,2
+4,22UMA401,Multivariate Calculus and Optimization Techniques,3
+4,22UAD401,Data Science and Analytics,3
+4,22UAD402,Machine Learning Techniques,3
+4,22UIT403,Operating Systems Essentials,3
+4,OE-II,Open Elective - II,3
+4,22UIT404,Java Programming (Theory + Lab),4
+4,22UEN301,Interpersonal Skills & Personality Development,1
+4,22UAD403,Data Science and Analytics Laboratory,2
+4,22UAD404,Machine Learning Laboratory,2
+5,22UAD501,Big Data Analytics,3
+5,22UAD503,Computer Networks,3
+5,MGMT-V,Project and Finance Management / Mgmt. Principles,3
+5,PE-I,Professional Elective - I,3
+5,OE-III,Open Elective - III,3
+5,WEB-V,Web Essentials (Theory + Lab),3
+5,22UAD504,Big Data Analytics Laboratory,2
+5,CN-L,Computer Networks Laboratory,2
+6,22UAD601,Data and Information Security,3
+6,22UAD602,Internet of Things for Data Science,3
+6,22UAD603,Deep Learning,4
+6,EDA-VI,Exploratory Data Analysis and Visualization,3
+6,PE-II,Professional Elective - II,3
+6,CLOUD-VI,Cloud Essentials (Theory + Lab),4
+6,22UAD606,Deep Learning Laboratory,2
+6,22UAD607,Internet of Things Laboratory,2
+7,PE-III,Professional Elective - III,3
+7,PE-IV,Professional Elective - IV,3
+7,PE-V,Professional Elective - V,3
+7,PE-VI,Professional Elective - VI,3
+8,22UAD801,Project Work,9
